@@ -27,8 +27,8 @@ const Navbar = () => {
       
         <CustomHeaderButton 
           btnType="button"
-          title="Patronage!"
-          styles='w-80 bg-[#b33939]'
+          title="Patronage! (Mumbai Testnet)"
+          styles='w-120 bg-[#b33939]'
         />
 
         <CustomButton 
